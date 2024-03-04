@@ -1,0 +1,21 @@
+{
+  "name": "multichain-evm-gas-estimator",
+  "version": "0.1.0",
+  "description": "A package for estimating gas prices on EVM chains and sending email notifications.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "ethereum gas",
+    "evm gas",
+    "gas estimation",
+    "email notification"
+  ],
+  "author": "peppyeben",
+  "license": "MIT",
+  "dependencies": {
+    "alchemy-sdk": "^3.1.2",
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.11",
+    "web3": "^4.5.0"
+  }
+}
