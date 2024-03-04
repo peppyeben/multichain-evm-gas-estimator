@@ -1,7 +1,7 @@
 {
     "name": "multichain-evm-gas-estimator",
     "version": "0.1.1",
-    "description": "A package for estimating gas prices on EVM chains and sending email notifications.",
+    "description": "A package for estimating gas prices on EVM chains",
     "main": "index.js",
     "scripts": {},
     "keywords": [
