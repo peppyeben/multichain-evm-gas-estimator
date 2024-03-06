@@ -1,9 +1,11 @@
 {
     "name": "multichain-evm-gas-estimator",
-    "version": "0.1.1",
+    "version": "0.1.3",
     "description": "A package for estimating gas prices on EVM chains",
     "main": "index.js",
-    "scripts": {},
+    "scripts": {
+        "test": "echo \"No tests specified\""
+    },
     "keywords": [
         "ethereum gas",
         "evm gas",
@@ -14,5 +16,13 @@
     "license": "MIT",
     "dependencies": {
         "web3": "^4.5.0"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/peppyeben/multichain-evm-gas-estimator.git"
+    },
+    "bugs": {
+        "url": "https://github.com/peppyeben/multichain-evm-gas-estimator/issues"
+    },
+    "homepage": "https://github.com/peppyeben/multichain-evm-gas-estimator#readme"
 }
