@@ -4,7 +4,7 @@
     "description": "A package for estimating gas prices on EVM chains",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"No tests specified\""
+        "test": "echo \"No tests \""
     },
     "keywords": [
         "ethereum gas",
